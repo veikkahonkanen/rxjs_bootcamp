@@ -1,0 +1,1 @@
+**Disclaimer** This repository has been created during lessons on "Full Stack Developer with React Bootcamp". The contents of the repository are based on Skillsoft/Percipio learning content originally created by Axle Barr. I have but modified a default Angular project to match the lesson instructions.
