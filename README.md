@@ -1,1 +1,1 @@
-**Disclaimer** This repository has been created during lessons on "Introduction to RxJS Library Bootcamp". The contents of the repository are based on Skillsoft/Percipio learning content originally created by Axle Barr. I have but modified a default Angular project to match the lesson instructions.
+**Disclaimer** This repository has been created during lessons on "Introduction to RxJS Library Bootcamp". The contents of the repository are based on Skillsoft/Percipio learning content originally created by Axle Barr. I have but written code to match the lesson instructions.
